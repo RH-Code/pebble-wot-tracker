@@ -1,0 +1,18 @@
+{
+  "uuid": "788c674e-b705-4b86-bed0-97facb772e50",
+  "shortName": "pebble-wot-tracker",
+  "longName": "pebble-wot-tracker",
+  "companyName": "MakeAwesomeHappen",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
